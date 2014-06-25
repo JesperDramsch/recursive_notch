@@ -1,6 +1,6 @@
 function VDIGA2()
-%VDIGA2 Summary of this function goes here
-%   Detailed explanation goes here
+%VDIGA2 - Applies a recursive notch filter to a signal
+%   Example is a 10 Hz to 100 Hz Sweep (linear chirp signal)
 
 %{
 The MIT License (MIT)
