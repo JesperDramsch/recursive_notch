@@ -1,5 +1,5 @@
-function VDIGA2()
-%VDIGA2 - Applies a recursive notch filter to a signal
+function notch_filter()
+%notch_filter - Applies a recursive notch filter to a signal
 %   Example is a 10 Hz to 100 Hz Sweep (linear chirp signal)
 
 %{
